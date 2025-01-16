@@ -4,6 +4,10 @@
 **GitHub**: [Github.com/Hsebastianr](https://github.com/Hsebastianr)
 
 ---
+<p align="center">
+  <img src="assets/HScan_img.png" alt="Example HScan" />
+</p>
+
 
 **HScan** is a Python-based network scanning tool designed to perform efficient port scanning and vulnerability checks on a target network. Built with Nmap and additional utilities, it helps identify open ports, services running on those ports, and allows for advanced scans like UDP, SNMP, and directory enumeration.
 
