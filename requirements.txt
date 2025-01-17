@@ -6,3 +6,4 @@ beautifulsoup4
 jinja2
 pyparsing
 python-nmap
+setuptools
